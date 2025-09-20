@@ -35,4 +35,4 @@ You are welcome to open a pull request to contribute!
 
 > [!CAUTION]
 > You may get DMCA'ed by Minecraft which is why I added the message above. **Remove at your own risk!**.
-  
+ 
